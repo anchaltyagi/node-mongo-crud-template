@@ -1,0 +1,19 @@
+{
+  "name": "node-mongo-crud-template",
+  "version": "0.0.0",
+  "description": "startup template for REST api CRUD operations based on node.js and mongo db",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Anchal Tyagi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "mongoose": "^4.0.8",
+    "restify": "^3.0.3",
+    "supertest": "^1.0.1",
+    "uuid": "^2.0.1"
+  }
+}

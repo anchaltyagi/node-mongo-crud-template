@@ -1,0 +1,1 @@
+app_grocery = angular.module('GroceryApp',[]);
